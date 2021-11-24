@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "obj": {
+      "nombre": "CAMISETA DE MANGA LARGA CON LOGO",
+      "descripcion": "Esta cómoda camiseta de manga larga, confeccionada en algodón orgánico, luce un diseño discreto que incorpora un logo brillante con la firma de Tommy Hilfiger.",
+      "codigo": "44333",
+      "imagen": "https://cdn3.iconfinder.com/data/icons/education-209/64/paint-color-pallete-brush-academy-512.png",
+      "precio": "$16.500",
+      "stock": "2223"
+    }
+  },
+  {
+    "id": 2,
+    "obj": {
+      "nombre": "CAMISETA DE MANGA LARGA CON LOGO",
+      "descripcion": "Esta cómoda camiseta de manga larga, confeccionada en algodón orgánico, luce un diseño discreto que incorpora un logo brillante con la firma de Tommy Hilfiger.",
+      "codigo": "44333",
+      "imagen": "https://cdn3.iconfinder.com/data/icons/education-209/64/paint-color-pallete-brush-academy-512.png",
+      "precio": "$16.500",
+      "stock": "2223"
+    }
+  },
+  {
+    "id": 3,
+    "obj": {
+      "nombre": "CAMISETA DE MANGA LARGA CON LOGO",
+      "descripcion": "Esta cómoda camiseta de manga larga, confeccionada en algodón orgánico, luce un diseño discreto que incorpora un logo brillante con la firma de Tommy Hilfiger.",
+      "codigo": "44333",
+      "imagen": "https://cdn3.iconfinder.com/data/icons/education-209/64/paint-color-pallete-brush-academy-512.png",
+      "precio": "$16.500",
+      "stock": "2223"
+    }
+  },
+  {
+    "id": 4,
+    "obj": {
+      "nombre": "CAMISETA DE MANGA LARGA CON LOGO",
+      "descripcion": "Esta cómoda camiseta de manga larga, confeccionada en algodón orgánico, luce un diseño discreto que incorpora un logo brillante con la firma de Tommy Hilfiger.",
+      "codigo": "44333",
+      "imagen": "https://cdn3.iconfinder.com/data/icons/education-209/64/paint-color-pallete-brush-academy-512.png",
+      "precio": "$16.500",
+      "stock": "2223"
+    }
+  },
+  {
+    "id": 5,
+    "obj": {
+      "nombre": "CAMISETA DE MANGA LARGA CON LOGO",
+      "descripcion": "Esta cómoda camiseta de manga larga, confeccionada en algodón orgánico, luce un diseño discreto que incorpora un logo brillante con la firma de Tommy Hilfiger.",
+      "codigo": "44333",
+      "imagen": "https://cdn3.iconfinder.com/data/icons/education-209/64/paint-color-pallete-brush-academy-512.png",
+      "precio": "$16.500",
+      "stock": "2223"
+    }
+  },
+  {
+    "id": 6,
+    "obj": {
+      "nombre": "CAMISETA DE MANGA LARGA CON LOGO",
+      "descripcion": "Esta cómoda camiseta de manga larga, confeccionada en algodón orgánico, luce un diseño discreto que incorpora un logo brillante con la firma de Tommy Hilfiger.",
+      "codigo": "44333",
+      "imagen": "https://cdn3.iconfinder.com/data/icons/education-209/64/paint-color-pallete-brush-academy-512.png",
+      "precio": "$16.500",
+      "stock": "2223"
+    }
+  },
+  {
+    "id": 7,
+    "obj": {
+      "nombre": "CAMISETA DE MANGA LARGA CON LOGO",
+      "descripcion": "Esta cómoda camiseta de manga larga, confeccionada en algodón orgánico, luce un diseño discreto que incorpora un logo brillante con la firma de Tommy Hilfiger.",
+      "codigo": "44333",
+      "imagen": "https://cdn3.iconfinder.com/data/icons/education-209/64/paint-color-pallete-brush-academy-512.png",
+      "precio": "$16.500",
+      "stock": "2223"
+    }
+  },
+  {
+    "id": 8,
+    "obj": {
+      "nombre": "CAMISETA DE MANGA LARGA CON LOGO",
+      "descripcion": "Esta cómoda camiseta de manga larga, confeccionada en algodón orgánico, luce un diseño discreto que incorpora un logo brillante con la firma de Tommy Hilfiger.",
+      "codigo": "44333",
+      "imagen": "https://cdn3.iconfinder.com/data/icons/education-209/64/paint-color-pallete-brush-academy-512.png",
+      "precio": "$16.500",
+      "stock": "2223"
+    }
+  }
+]
