@@ -3,7 +3,7 @@ const mongoose = require("mongoose")
 const config =  require("../config/index")
 
 
-const db = mongoose.connect(config.mongoDB.cnx)
+const db = mongoose.connect("mongodb+srv://cami:cami0503@cluster0.17xc4.mongodb.net/SegundaE?retryWrites=true&w=majority")
 
 
 
